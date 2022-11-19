@@ -1,3 +1,6 @@
 [submodule "42-Libft"]
 	path = 42-Libft
 	url = https://github.com/titouanck/42-Libft
+[submodule "42-ft_printf"]
+	path = 42-ft_printf
+	url = git@github.com:titouanck/42-ft_printf.git
