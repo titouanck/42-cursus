@@ -10,3 +10,6 @@
 [submodule "42-Born2beroot"]
 	path = 42-Born2beroot
 	url = git@github.com:titouanck/42-Born2beroot.git
+[submodule "42-FdF"]
+	path = 42-FdF
+	url = git@github.com:titouanck/42-FdF.git
